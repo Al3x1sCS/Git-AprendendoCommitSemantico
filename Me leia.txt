@@ -9,3 +9,5 @@ Adicionando uma nova forma de commit, commit semântico.
 Conhecimento anterior desatualizado.
 
 <br /> e \n não funcionam como desejado
+
+Para colocar quebra de linha é preciso usar aspas simples, o commit ficara com tilulo e com corpo como desejado.
