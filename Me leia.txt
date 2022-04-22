@@ -3,3 +3,7 @@ Commit Semantico
 <Tipo>[Escopo Opcional]: <Descrição> 
 [Corpo Opcional]
 [Rodape(s) opcional(is)]
+
+DOCS: Adicionando conhecimento a memória de Alexis.
+Adicionando uma nova forma de commit, commit semântico.
+Conhecimento anterior desatualizado.
