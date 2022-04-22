@@ -7,3 +7,5 @@ Commit Semantico
 DOCS: Adicionando conhecimento a memória de Alexis.
 Adicionando uma nova forma de commit, commit semântico.
 Conhecimento anterior desatualizado.
+
+<br /> e \n não funcionam como desejado
